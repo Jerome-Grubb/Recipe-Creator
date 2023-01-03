@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="first_fragment_label">Premier fragment</string>
+    <string name="second_fragment_label">Deuxième fragment</string>
+    <string name="next">Suivante</string>
+    <string name="previous">Précédente</string>
+    <string name="hello_first_fragment">Bonjour premier fragment</string>
+    <string name="hello_second_fragment">Bonjour deuxième fragment. Arg:% 1 $ s</string>
+    <string name="hello_blank_fragment">Bonjour fragment vierge</string>
+    <string name="title_promp">Entrez un titre ici ...</string>
+    <string name="confirm_button">Confirmer</string>
+    <string name="method_prompt">Entrez une méthode / des notes sur la recette ici ...</string>
+    <string name="method_title">Méthode:</string>
+    <string name="description_title">La description:</string>
+    <string name="description_textView">La description:</string>
+    <string name="add_button">Ajouter</string>
+    <string name="title_textView">Titre:</string>
+    <string name="ingredients_textView">Ingrédients:</string>
+    <string name="method_textView">Méthode:</string>
+    <string name="name_textView">Nom</string>
+    <string name="quantity_textView">Quantité</string>
+    <string name="create_new_recipe_button">Créer une nouvelle recette</string>
+    <string name="add_button_update">Ajouter</string>
+    <string name="ingredients_textView_update">Ingrédients:</string>
+    <string name="confirm_button_update">Confirmer</string>
+    <string name="rating_string">Évaluation</string>
+    <string name="ingredients_text">Ingrédients</string>
+    <string name="quantity_text">Quantité</string>
+    <string name="method_notes_text">Méthode / Notes</string>
+    <string name="rating_text">Évaluation</string>
+    <string name="rating_text_update">Évaluation:</string>
+    <string name="rating_text2">Évaluation:</string>
+</resources>

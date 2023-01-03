@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_promp">Enter a title here...</string>
+    <string name="confirm_button">Confirm</string>
+    <string name="method_prompt">Enter a method / any notes about the recipe here...</string>
+    <string name="method_title">Method/Notes:</string>
+    <string name="description_title">Description:</string>
+    <string name="description_textView">Description:</string>
+    <string name="add_button">Add</string>
+    <string name="title_textView">Title:</string>
+    <string name="ingredients_textView">Ingredients:</string>
+    <string name="add_button_update">Add</string>
+    <string name="ingredients_textView_update">Ingredients:</string>
+    <string name="confirm_button_update">Confirm</string>
+    <string name="method_textView">Method/Notes:</string>
+    <string name="name_textView">Name</string>
+    <string name="quantity_textView">Quantity</string>
+    <string name="create_new_recipe_button">Create New Recipe</string>
+    <string name="rating_string">Rating</string>
+    <string name="ingredients_text">Ingredients</string>
+    <string name="quantity_text">Quantity</string>
+    <string name="method_notes_text">Method/Notes</string>
+    <string name="rating_text2">Rating</string>
+    <string name="rating_text_update">Rating:</string>
+    <string name="rating_text">Rating</string>
+</resources>
